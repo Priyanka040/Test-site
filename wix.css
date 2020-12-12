@@ -1,0 +1,375 @@
+body{
+    margin-top: 60px;
+    
+}
+.w{
+    margin-left: 50px;
+    
+}
+i{
+    margin-left: 50px;
+    
+}
+.n{
+    font-size: 45px;
+}
+
+/*navbar starts here*/
+
+.navbar-left a{
+    color: white;
+    font-size: 25px; 
+}
+.navbar-right li i{
+    margin: 0px;
+}
+
+
+/*navbar ends here*/
+
+/*home starts here*/
+.home{
+    background: url("1e3643_f1fadcd033fd4146bf3064e9c4e9e074_mv2_d_5184_3456_s_4_2.webp") center center;
+    background-size: cover;
+    width: 100%;
+    height: 950px;
+}
+
+.go{
+    text-align: center;
+    padding: 300px 00px;
+    color:#fff;
+}
+.go .G{
+    font-size: 8em;
+    font-family: 'Playfair Display', serif;
+}
+.go > p{
+    font-size: 2em;
+}
+
+
+/*home ends here*/
+
+
+/*about start here*/
+.out{
+    margin: 0px;
+    padding: 50px 00px;
+    background: url("1e3643_0643d259faaa4532a6868cae979ac775_mv2_d_5184_3456_s_4_2.webp") center center fixed;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+.about{
+    text-align: center;
+    height: 550px;
+    width: 550px;
+    margin: 0 auto;
+    padding: 100px 70px;;
+    color:;
+    background-color: #fff;
+}
+
+.about .b{
+    font-size: 5em;
+    font-family: 'Montaga', serif;
+
+}
+
+/*about ends here*/
+
+
+/*comm starts here*/
+
+.im{
+    height: 752px;
+    width: 100%;
+    background-color: #fff;
+}
+.im .comm{
+    text-align: center;
+    color: #000;
+    background-color: lightgrey;
+    margin: 0px auto;
+    height: 250px;
+    padding: 45px 50px;
+}
+.im .comm .ou{
+    font-size: 54px;
+    font-family: 'Playfair Display', serif;
+}
+.im .carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+.im .carousel .item{ 
+    height: 500px;
+    background-color: #fff;
+}
+.im .carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+
+/*comm ends here*/
+
+/*space start here*/
+.sp{
+    margin: 0;
+    padding: 0;
+}
+.space{
+    text-align: center;
+    font-size: 18px;
+    height: 250px;
+    background-color: #2fc4b2;
+    padding: 65px 25px;
+    color: #fff;
+    
+}
+.space .sc{
+    font-size: 44px;
+    font-family: 'Playfair Display', serif;
+}
+/*1st row left portion starts here*/
+.open .imge{
+    display: block;
+    height: 300px;
+    width: 100%;
+}
+
+.open:hover .overlay{
+    opacity: 0.8;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color: #3f3f44;
+}
+.text{
+    color: #fff;;
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+/*1st row left portion ends here*/
+
+
+/*1st row right portion starts here*/
+
+.office .imge2{
+    display: block;
+    height: 300px;
+    width: 100%;
+}
+.office:hover .overlay2{
+    opacity: 0.8;
+}
+.overlay2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color: #3f3f44;
+}
+.text2{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 35%;
+}
+
+/*1st row right portion ends here*/
+
+/*2nd row left portion starts here*/
+
+.events .imge3{
+    display: block;
+    height: 300px;
+    width: 100%;
+}
+.events:hover .overlay3{
+    opacity: 0.8;
+}
+.overlay3{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100;
+    opacity: 0;
+    background-color: #3f3f44;
+}
+.text3{
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+
+/*2nd row left portion ends here*/
+
+/*2nd row rightportion start here*/
+.meeting .imge4{
+    display: block;
+    height: 300px;
+    width: 100%;
+}
+.meeting:hover .overlay4{
+    opacity: 0.8;
+}
+.overlay4{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100;
+    opacity: 0;
+    background-color: #3f3f44;
+}
+.text4{
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+/*2nd row rightportion ends here*/
+
+/*space ends here*/
+
+/*member starts here*/
+
+.member{
+    text-align: center;
+    margin: 0px auto;
+    padding: 80px 50px;
+    background-color: #fff;
+}
+.member .mem{
+    font-size: 4em;
+    padding: 0px 20px;
+    font-family: 'Cabin', sans-serif;
+}
+.row{
+    padding: 10px 10px;
+}
+.col-md-4{
+    height: 20px;
+    width: 380px;
+    margin: 50px auto;
+    font-size: 15px;
+}
+.col-md-4 i{
+    font-size: 2em;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+/*member ends here*/
+
+/*contact starts here*/
+.col-md-12{
+    background: url("1e3643_6b202171835a44438a999f773fe0e77f_mv2_d_7360_5068_s_4_2.webp") center center fixed;
+    background-size: cover;
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+.overlay5{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 500px;
+    width: 100%;
+    opacity: 0.8;
+    background-color: #3f3f44;
+    color: #fff;
+    text-align: center;
+    padding: 20px 20px;
+}
+.con{
+    padding: 20px 20px;
+    margin-top: 50px;
+}
+.overlay5 a{
+    color: #fff;
+}
+.cnt{
+    padding: 5px 10px;
+    margin-top: 30px;
+}
+.overlay5 input{
+    margin-top: 10px;
+    width: 300px;
+    height: 35px;
+    color: #fff;
+    background-color: darkgrey;
+}
+.btn{
+   margin-top: 10px;
+    color: #fff;
+    width: 300px;
+    background-color: #2fc4b2;
+    opacity: 1;
+    font-size: 1.2em;
+}
+input[type=text]:hover{
+    background-color: #2fc4b2;
+}
+
+/*contact ends here*/
+
+/*map starts here*/
+.map{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    background-color: rgb(50,50,50);
+    color: #777;
+    height: 80px;
+}
+footer p{
+    padding: 30px 40px;
+}
+footer .pull-right i{
+    font-size: 25px;
+    padding: 0px ;
+}
+footer a{
+    color: #777;
+}
+/*map ends here*/

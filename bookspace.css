@@ -1,0 +1,140 @@
+/*navbar starts here*/
+
+.navbar-left a{
+    color: white;
+    font-size: 25px; 
+}
+.navbar-right a:link
+{
+    color: #2fc4b2;
+    
+}
+.navbar-right a:hover{
+    background-color: #2fc4b2;
+}
+/*navbar ends here*/
+
+
+.container{
+    margin: 0;
+    padding: 25px 25px;
+    display: block;
+}
+.container .book{
+    text-align: center;
+    font-size: 2em;
+    padding: 5px 5px;
+    margin-top: 40px;
+     font-family: 'Playfair Display', serif;
+}
+/*first container starts here*/
+.container1{
+   
+    margin: 50px 230px;
+    border: 1px solid lightgrey;
+    height: 250px;
+    background-color: #fff;
+}
+.container1 img{
+    height: 248px;
+    width: 320px;
+    float: left;
+}
+.row3{
+    text-align: center;
+    padding: 35px;
+    font-size: 15px;
+}
+.row3 .pr{
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+/*first container ends here*/
+
+/*second container starts here*/
+.container2{
+    margin: 0 230px;
+    border: 1px solid lightgrey;
+    height: 250px;
+    background-color: #fff;
+}
+.container2 img{
+    height: 248px;
+    width: 320px;
+    float: left;
+}
+.row4{
+    text-align: center;
+    padding: 35px;
+    font-size: 15px
+}
+.row4 .pr2{
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+/*second container ends here*/
+
+/*third container starts here*/
+.container3{
+    margin: 50px 230px;
+    border: 1px solid lightgrey;
+    height: 250px;
+    background-color: #fff;
+}
+.container3 img{
+    height: 248px;
+    width: 320px;
+    float: left;
+}
+.row5{
+    text-align: center;
+    padding: 35px;
+    font-size: 15px
+}
+.row5 .pr3{
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+/*third container ends here*/
+
+
+/*fourth container starts here*/
+.container4{
+    margin: 0 230px;
+    border: 1px solid lightgrey;
+    height: 250px;
+    background-color: #fff;
+}
+.container4 img{
+    height: 248px;
+    width: 320px;
+    float: left;
+}
+.row6{
+    text-align: center;
+    padding: 35px;
+    font-size: 15px
+}
+.row6 .pr4{
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+/*fourth container ends here*/
+
+.foot .mp{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: rgb(50,50,50);
+    height: 100px;
+    color: #777;
+    padding: 40px 200px;
+    box-sizing: border-box;
+}
+.mp a:link{
+    color: #777;
+}

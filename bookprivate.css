@@ -1,0 +1,79 @@
+body{
+   margin: 0;
+    padding: 0;
+}
+.navbar-left a{
+    color: white;
+    font-size: 25px; 
+}
+.navbar-right a:link
+{
+    color: #2fc4b2;
+    
+}
+.navbar-right a:hover{
+    background-color: #2fc4b2;
+}
+.bc{
+    font-size: 20px;
+    margin-left: 200px;
+    padding: 90px 0px 0px 0px;
+}
+.bc a{
+    color: #2fc4b2;
+}
+
+.prvt{
+    margin: 0px auto;
+    font-size: 22px;
+    background-color: #fff;
+    width: 650px;
+    padding: 10px 50px;
+    
+}
+.off{
+    text-align: center;
+    padding: 20px
+}
+.office{
+    font-size: 40px;
+}
+.prvt p{
+    padding: 10px;
+}
+.btn{
+    padding: 10px;
+}
+.imge{
+    margin: px;
+    width: 100%;
+    height: 50%;
+}
+h3{
+    margin: 0px
+}
+.prg{
+    font-size: 15px;
+    margin: 65px 0;
+}
+.location p{
+    text-align: center;
+}
+.loc{
+    font-size: 25px;
+}
+.email{
+    font-size: 16px;
+}
+.foot .mp{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: rgb(50,50,50);
+    height: 100px;
+    color: #777;
+    padding: 40px 40px;
+    box-sizing: border-box;
+}
+.mp a:link{
+    color: #777;
+}
